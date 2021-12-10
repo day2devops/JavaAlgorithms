@@ -344,6 +344,7 @@
             * [LowerBound](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/LowerBound.java)
             * [MonteCarloTreeSearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/MonteCarloTreeSearch.java)
             * [PerfectBinarySearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/PerfectBinarySearch.java)
+            * [QuickSelect](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/QuickSelect.java)
             * [SaddlebackSearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/SaddlebackSearch.java)
             * [SquareRootBinarySearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/SquareRootBinarySearch.java)
             * [TernarySearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/TernarySearch.java)
@@ -383,6 +384,7 @@
             * [TreeSort](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/TreeSort.java)
           * strings
             * [Alphabetical](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/Alphabetical.java)
+            * [Anagrams](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/Anagrams.java)
             * [CharactersSame](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/CharactersSame.java)
             * [CheckAnagrams](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/CheckAnagrams.java)
             * [CheckVowels](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/CheckVowels.java)
@@ -397,3 +399,6 @@
             * [Rotation](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/Rotation.java)
             * [Upper](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/Upper.java)
             * [WordLadder](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/WordLadder.java)
+  * test
+          * searches
+            * [QuickSelectTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/QuickSelectTest.java)
